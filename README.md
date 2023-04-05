@@ -35,3 +35,4 @@
 - 在 `.github/workflows` 下存在 `CI/CD` 配置 , 可自动化发布
 
 Hogo 博客: http://tk.getvector.tk
+https://you-know-for-the-record.pages.dev/
