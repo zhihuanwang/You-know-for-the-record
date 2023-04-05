@@ -249,7 +249,7 @@ plugins_js: []
 site_views: true
 
 #静态资源使用的cdn地址,如https://cdn.jsdelivr.net/gh/twbworld/twbworld.GitHub.io@gh-pages/
-cdn_site: 'https://cdn.jsdelivr.net/gh/twbworld/twbworld.GitHub.io@gh-pages'
+cdn_site: 'https://cdn.jsdelivr.net/gh/zhihuanwang/You-know-for-the-record@gh-pages'
 
 # Avatars.
 # An avatar is an image that appears next to a user's name.
